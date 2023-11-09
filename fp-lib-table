@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MPQ4436GRE-AEC1-Z")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/footprints.pretty")(options "")(descr ""))
+)

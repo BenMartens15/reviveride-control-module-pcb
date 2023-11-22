@@ -467,6 +467,31 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "4c946e98-79c2-4a2d-bd7f-2a33db8d8c91",
+      ""
+    ],
+    [
+      "a3db59ba-0e1f-4e6c-a45d-0dd013b5118e",
+      "Power Supply"
+    ],
+    [
+      "e59499ee-e888-4aa2-b1ef-f071d9b1365d",
+      "ESP32"
+    ],
+    [
+      "689f1063-70bb-4257-9aa2-434555b9eee7",
+      "Programming"
+    ],
+    [
+      "b91ad3b4-6d59-4840-aca0-b437cb55ab0b",
+      "Power Outputs"
+    ],
+    [
+      "01645893-76b1-48ec-a8fc-ebf269c31ffb",
+      "Ignition"
+    ]
+  ],
   "text_variables": {}
 }

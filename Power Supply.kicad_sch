@@ -1,0 +1,31 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 996e2312-bba6-42d5-beb9-41b7c337b702)
+
+  (paper "A4")
+
+  (title_block
+    (title "Control Module")
+    (date "2023-11-22")
+  )
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "5V" (shape output) (at 132.08 67.31 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 0a7c66db-5ce9-4add-99d1-55f4adf398e2)
+  )
+  (hierarchical_label "VIN" (shape input) (at 114.3 63.5 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 99124b30-c079-49b7-abf2-682c5eeec54b)
+    (property "Car Battery Power" "12V" (at 114.3 62.23 0)
+      (effects (font (size 1.27 1.27) italic) (justify right) hide)
+    )
+  )
+  (hierarchical_label "3V3" (shape output) (at 132.08 63.5 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid e169bd8e-c9f2-431e-8d1a-51b0607bbcfb)
+  )
+)

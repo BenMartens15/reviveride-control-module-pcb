@@ -1,0 +1,32 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 996e2312-bba6-42d5-beb9-41b7c337b702)
+
+  (paper "A4")
+
+  (title_block
+    (title "Control Module")
+    (date "2023-11-22")
+  )
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "BOOT" (shape output) (at 127 91.44 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 08e1b127-c897-437c-9db3-ab0574b7a4b5)
+  )
+  (hierarchical_label "EN" (shape output) (at 127 88.9 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 7f5776df-8c79-4532-9a5e-028c1a921d23)
+  )
+  (hierarchical_label "RX" (shape output) (at 127 93.98 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 8f2f4009-dd41-4f76-a7f2-20ecaade90c6)
+  )
+  (hierarchical_label "TX" (shape output) (at 127 96.52 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid f53d2af8-6449-4c55-9254-cfe3b60c729a)
+  )
+)

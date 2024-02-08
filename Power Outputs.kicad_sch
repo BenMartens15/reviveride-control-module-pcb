@@ -1645,7 +1645,7 @@
   (symbol (lib_id "Device:R_US") (at 139.7 147.32 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 01d3ab28-bb58-4769-8587-288fca6a5a04)
-    (property "Reference" "R33" (at 142.24 146.05 0)
+    (property "Reference" "R19" (at 142.24 146.05 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "18k" (at 142.24 148.59 0)
@@ -1662,7 +1662,7 @@
     (instances
       (project "control-module-pcb"
         (path "/4c946e98-79c2-4a2d-bd7f-2a33db8d8c91/b91ad3b4-6d59-4840-aca0-b437cb55ab0b"
-          (reference "R33") (unit 1)
+          (reference "R19") (unit 1)
         )
       )
     )
@@ -1671,7 +1671,7 @@
   (symbol (lib_id "Device:R_US") (at 128.27 182.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0353bc0c-7466-4f84-b9dd-ccc511da91f3)
-    (property "Reference" "R34" (at 130.81 181.61 0)
+    (property "Reference" "R20" (at 130.81 181.61 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "287" (at 130.81 184.15 0)
@@ -1691,7 +1691,7 @@
     (instances
       (project "control-module-pcb"
         (path "/4c946e98-79c2-4a2d-bd7f-2a33db8d8c91/b91ad3b4-6d59-4840-aca0-b437cb55ab0b"
-          (reference "R34") (unit 1)
+          (reference "R20") (unit 1)
         )
       )
     )
@@ -1700,7 +1700,7 @@
   (symbol (lib_id "Device:R_US") (at 139.7 111.76 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0993a9a9-7345-4360-b0d3-962a95eaa6a2)
-    (property "Reference" "R15" (at 142.24 110.49 0)
+    (property "Reference" "R16" (at 142.24 110.49 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "18k" (at 142.24 113.03 0)
@@ -1717,7 +1717,7 @@
     (instances
       (project "control-module-pcb"
         (path "/4c946e98-79c2-4a2d-bd7f-2a33db8d8c91/b91ad3b4-6d59-4840-aca0-b437cb55ab0b"
-          (reference "R15") (unit 1)
+          (reference "R16") (unit 1)
         )
       )
     )
@@ -1752,7 +1752,7 @@
   (symbol (lib_id "Device:R_US") (at 128.27 147.32 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 12de54b4-9d89-48d1-aa84-256308d1ef83)
-    (property "Reference" "R16" (at 130.81 146.05 0)
+    (property "Reference" "R17" (at 130.81 146.05 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "287" (at 130.81 148.59 0)
@@ -1772,7 +1772,7 @@
     (instances
       (project "control-module-pcb"
         (path "/4c946e98-79c2-4a2d-bd7f-2a33db8d8c91/b91ad3b4-6d59-4840-aca0-b437cb55ab0b"
-          (reference "R16") (unit 1)
+          (reference "R17") (unit 1)
         )
       )
     )
@@ -1856,7 +1856,7 @@
   (symbol (lib_id "Device:R_US") (at 139.7 76.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 20a35747-8c86-42f3-942b-80939b351e8f)
-    (property "Reference" "R12" (at 142.24 74.93 0)
+    (property "Reference" "R13" (at 142.24 74.93 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "18k" (at 142.24 77.47 0)
@@ -1873,7 +1873,7 @@
     (instances
       (project "control-module-pcb"
         (path "/4c946e98-79c2-4a2d-bd7f-2a33db8d8c91/b91ad3b4-6d59-4840-aca0-b437cb55ab0b"
-          (reference "R12") (unit 1)
+          (reference "R13") (unit 1)
         )
       )
     )
@@ -1963,7 +1963,7 @@
   (symbol (lib_id "Device:R_US") (at 139.7 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4253ca46-d27b-4114-9dde-9fa271fb9880)
-    (property "Reference" "R11" (at 142.24 59.69 0)
+    (property "Reference" "R12" (at 142.24 59.69 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 142.24 62.23 0)
@@ -1980,7 +1980,7 @@
     (instances
       (project "control-module-pcb"
         (path "/4c946e98-79c2-4a2d-bd7f-2a33db8d8c91/b91ad3b4-6d59-4840-aca0-b437cb55ab0b"
-          (reference "R11") (unit 1)
+          (reference "R12") (unit 1)
         )
       )
     )
@@ -2039,7 +2039,7 @@
   (symbol (lib_id "Device:R_US") (at 139.7 132.08 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5a9efbb5-9c9d-4cbd-bbca-7088f51caa20)
-    (property "Reference" "R17" (at 142.24 130.81 0)
+    (property "Reference" "R18" (at 142.24 130.81 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 142.24 133.35 0)
@@ -2056,7 +2056,7 @@
     (instances
       (project "control-module-pcb"
         (path "/4c946e98-79c2-4a2d-bd7f-2a33db8d8c91/b91ad3b4-6d59-4840-aca0-b437cb55ab0b"
-          (reference "R17") (unit 1)
+          (reference "R18") (unit 1)
         )
       )
     )
@@ -2176,7 +2176,7 @@
   (symbol (lib_id "Device:R_US") (at 128.27 76.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7869a379-28c7-4dc5-adb3-f90bfccb0f3c)
-    (property "Reference" "R10" (at 130.81 74.93 0)
+    (property "Reference" "R11" (at 130.81 74.93 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "287" (at 130.81 77.47 0)
@@ -2196,7 +2196,7 @@
     (instances
       (project "control-module-pcb"
         (path "/4c946e98-79c2-4a2d-bd7f-2a33db8d8c91/b91ad3b4-6d59-4840-aca0-b437cb55ab0b"
-          (reference "R10") (unit 1)
+          (reference "R11") (unit 1)
         )
       )
     )
@@ -2205,7 +2205,7 @@
   (symbol (lib_id "Device:R_US") (at 139.7 96.52 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 85a9eb96-20f3-4753-9482-4e716bad4b65)
-    (property "Reference" "R14" (at 142.24 95.25 0)
+    (property "Reference" "R15" (at 142.24 95.25 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 142.24 97.79 0)
@@ -2222,7 +2222,7 @@
     (instances
       (project "control-module-pcb"
         (path "/4c946e98-79c2-4a2d-bd7f-2a33db8d8c91/b91ad3b4-6d59-4840-aca0-b437cb55ab0b"
-          (reference "R14") (unit 1)
+          (reference "R15") (unit 1)
         )
       )
     )
@@ -2442,7 +2442,7 @@
   (symbol (lib_id "Device:R_US") (at 139.7 40.64 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ad25ec14-81d0-4fc6-87f6-8a1b05e0b72c)
-    (property "Reference" "R2" (at 142.24 39.37 0)
+    (property "Reference" "R10" (at 142.24 39.37 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "18k" (at 142.24 41.91 0)
@@ -2459,7 +2459,7 @@
     (instances
       (project "control-module-pcb"
         (path "/4c946e98-79c2-4a2d-bd7f-2a33db8d8c91/b91ad3b4-6d59-4840-aca0-b437cb55ab0b"
-          (reference "R2") (unit 1)
+          (reference "R10") (unit 1)
         )
       )
     )
@@ -2468,7 +2468,7 @@
   (symbol (lib_id "Device:R_US") (at 128.27 111.76 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b7fe0928-7463-4c52-8674-b6adcc0f8df2)
-    (property "Reference" "R13" (at 130.81 110.49 0)
+    (property "Reference" "R14" (at 130.81 110.49 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "287" (at 130.81 113.03 0)
@@ -2488,7 +2488,7 @@
     (instances
       (project "control-module-pcb"
         (path "/4c946e98-79c2-4a2d-bd7f-2a33db8d8c91/b91ad3b4-6d59-4840-aca0-b437cb55ab0b"
-          (reference "R13") (unit 1)
+          (reference "R14") (unit 1)
         )
       )
     )
@@ -2497,7 +2497,7 @@
   (symbol (lib_id "Device:R_US") (at 139.7 182.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bbb6600b-d08e-466d-a93a-38762d0d8bc8)
-    (property "Reference" "R36" (at 142.24 181.61 0)
+    (property "Reference" "R22" (at 142.24 181.61 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "18k" (at 142.24 184.15 0)
@@ -2514,7 +2514,7 @@
     (instances
       (project "control-module-pcb"
         (path "/4c946e98-79c2-4a2d-bd7f-2a33db8d8c91/b91ad3b4-6d59-4840-aca0-b437cb55ab0b"
-          (reference "R36") (unit 1)
+          (reference "R22") (unit 1)
         )
       )
     )
@@ -2659,7 +2659,7 @@
   (symbol (lib_id "Device:R_US") (at 139.7 167.64 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f39c1727-01d7-45a5-93f3-fb3b7017a289)
-    (property "Reference" "R35" (at 142.24 166.37 0)
+    (property "Reference" "R21" (at 142.24 166.37 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 142.24 168.91 0)
@@ -2676,7 +2676,7 @@
     (instances
       (project "control-module-pcb"
         (path "/4c946e98-79c2-4a2d-bd7f-2a33db8d8c91/b91ad3b4-6d59-4840-aca0-b437cb55ab0b"
-          (reference "R35") (unit 1)
+          (reference "R21") (unit 1)
         )
       )
     )

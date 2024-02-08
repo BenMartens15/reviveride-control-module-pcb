@@ -525,7 +525,7 @@
   (symbol (lib_id "Device:R_US") (at 142.24 111.76 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9a3f3b4a-f286-42b3-bb9c-bc71e835cb1b)
-    (property "Reference" "R32" (at 144.78 110.49 0)
+    (property "Reference" "R2" (at 144.78 110.49 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 144.78 113.03 0)
@@ -542,7 +542,7 @@
     (instances
       (project "control-module-pcb"
         (path "/4c946e98-79c2-4a2d-bd7f-2a33db8d8c91/689f1063-70bb-4257-9aa2-434555b9eee7"
-          (reference "R32") (unit 1)
+          (reference "R2") (unit 1)
         )
       )
     )

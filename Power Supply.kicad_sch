@@ -1614,7 +1614,7 @@
     (property "Value" "4.7u" (at 208.28 77.47 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "IND_PA4342_PUL" (at 200.66 82.55 0)
+    (property "Footprint" "PA4342_472NLT:IND_PA4342_PUL" (at 200.66 82.55 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "PA4342.472NLT" (at 200.66 82.55 0)

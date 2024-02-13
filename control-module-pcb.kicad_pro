@@ -55,7 +55,10 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "silk_edge_clearance|142000000|73100000|22dfd717-5654-4e7a-aedb-0f3695d6b1ef|b7de4e93-a1ba-43ba-b1b4-463cc467f7e5",
+        "silk_edge_clearance|142000000|91100000|22dfd717-5654-4e7a-aedb-0f3695d6b1ef|d868f352-bc9c-487e-855d-0243799b662c"
+      ],
       "meta": {
         "version": 2
       },
@@ -206,9 +209,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      "multiple_net_names|2184400|1117600|19cb1234-03af-4259-9079-a34f82add968|32446a55-ab9a-4709-951e-3066bcf89bc4|||"
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
@@ -459,7 +460,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "control-module-pcb.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

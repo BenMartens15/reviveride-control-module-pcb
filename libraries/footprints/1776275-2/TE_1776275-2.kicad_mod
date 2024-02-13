@@ -41,4 +41,9 @@
     (solder_mask_margin 0.102) (tstamp 2d5bcd29-402b-41d6-983f-96e3dd49431b))
   (pad "2" thru_hole circle (at 3.5 0) (size 1.8 1.8) (drill 1.2) (layers "*.Cu" "*.Mask")
     (solder_mask_margin 0.102) (tstamp 1c068f93-64bb-4a25-8a94-69a0534bf028))
+  (model "${KIPRJMOD}/libraries/3dmodels/1776275_2/c-1776275-2-a-3d.stp"
+    (offset (xyz 1.75 3.625 2))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 180))
+  )
 )

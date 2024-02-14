@@ -1620,8 +1620,8 @@
     (property "Datasheet" "PA4342.472NLT" (at 200.66 82.55 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
-    (pin "1" (uuid 20b53dd1-1aef-4640-bebf-681c0ef32141))
-    (pin "2" (uuid 196f35ba-f335-44a5-804f-8978c42679ed))
+    (pin "1" (uuid 687164b0-9b34-47f3-b645-0cfacbf92e8b))
+    (pin "2" (uuid dcab1928-6204-4f06-bd3f-03ed29b5c682))
     (instances
       (project "control-module-pcb"
         (path "/4c946e98-79c2-4a2d-bd7f-2a33db8d8c91/a3db59ba-0e1f-4e6c-a45d-0dd013b5118e"

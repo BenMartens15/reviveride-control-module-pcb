@@ -1,0 +1,11 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MPQ4436GRE-AEC1-Z")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/MPQ4436GRE-AEC1-Z/footprints.pretty")(options "")(descr ""))
+  (lib (name "RT9080_33GJ5")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/RT9080_33GJ5/footprints.pretty")(options "")(descr ""))
+  (lib (name "MIC2039BYM6_TR")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/MIC2039BYM6_TR/footprints.pretty")(options "")(descr ""))
+  (lib (name "ITS4200SSJDXUMA1")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/ITS4200SSJDXUMA1/footprints.pretty")(options "")(descr ""))
+  (lib (name "PA4342_472NLT")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/PA4342_472NLT/footprints.pretty")(options "")(descr ""))
+  (lib (name "1-1776275-2")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/1-1776275-2")(options "")(descr ""))
+  (lib (name "1776275-5")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/1776275-5")(options "")(descr ""))
+  (lib (name "1776275-2")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/1776275-2")(options "")(descr ""))
+)
